@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -
 #
-# This file is part of suds-passworddigest released under the MIT license. 
+# This file is part of suds-passworddigest released under the MIT license.
 # See the NOTICE for more information.
 
 import os
